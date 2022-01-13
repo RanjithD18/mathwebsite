@@ -228,8 +228,9 @@ function area() {
 
 ## OUTPUT:
 
-![OUTPUT]()
-
+![OUTPUT](https://github.com/RanjithD18/mathwebsite/blob/main/Screenshot%20(60).png)
+![OUTPUT](https://github.com/RanjithD18/mathwebsite/blob/main/Screenshot%20(58).png)
+![OUTPUT](https://github.com/RanjithD18/mathwebsite/blob/main/Screenshot%20(61).png)
 ## Result:
 
 Thus a website is designed to perform mathematical calculations in the client side.
